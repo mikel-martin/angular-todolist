@@ -1,0 +1,29 @@
+.done-check.form-check input[type="checkbox"] {
+    width: 30px;
+    height: 30px;
+}
+
+.done-btn.btn.btn-danger {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.done-btn.btn {
+    opacity: 0.3;
+    transition: opacity 0.15s;
+}
+
+.done-btn.btn:hover {
+    opacity: 0.75;
+}
+
+.todo {
+    transition: background-color 0.15s;
+}
+
+.todo:hover {
+    background-color: #dee2e6;
+}
