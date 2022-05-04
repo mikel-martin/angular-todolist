@@ -1,12 +1,11 @@
 # Angular Todo List
 
-This project was developed with Angular.
+This project was developed with Angular v12 and Bootstrap v5.1.
 
-- List all the todos.
-- Filter todos.
+- List and filter the todos
 - Create todos.
-- Mark todos as done.
-- Delete done todos.
+- Mark todos as done
+- Delete done todos
 
 ![image](https://user-images.githubusercontent.com/34236242/166429181-6f343025-b8f8-4f73-a0dc-0bbbd9e23a4e.png)
 
